@@ -21,6 +21,5 @@ PRODUCT_COPY_FILES += \
     vendor/asus/grouper/proprietary/lib/hw/keystore.grouper.so:system/lib/hw/keystore.grouper.so \
     vendor/asus/grouper/proprietary/lib/hw/sensors.grouper.so:system/lib/hw/sensors.grouper.so \
     vendor/asus/grouper/proprietary/lib/libsensors.lightsensor.so:system/lib/libsensors.lightsensor.so \
-    vendor/asus/grouper/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/asus/grouper/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/asus/grouper/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
