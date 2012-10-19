@@ -14,6 +14,7 @@
 
 LOCAL_STEM := grouper/device-partial.mk
 
+$(call inherit-product, vendor/asus/grouper/device-vendor-blobs.mk)
 $(call inherit-product-if-exists, vendor/asus/$(LOCAL_STEM))
 $(call inherit-product-if-exists, vendor/broadcom/$(LOCAL_STEM))
 $(call inherit-product-if-exists, vendor/elan/$(LOCAL_STEM))
