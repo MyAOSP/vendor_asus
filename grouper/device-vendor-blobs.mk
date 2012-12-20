@@ -16,7 +16,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/grouper/proprietary/bin/btmacreader:system/bin/btmacreader \
     vendor/asus/grouper/proprietary/bin/sensors-config:system/bin/sensors-config \
     vendor/asus/grouper/proprietary/bin/tf_daemon:system/bin/tf_daemon \
-    vendor/asus/grouper/proprietary/etc/asound.conf:system/etc/asound.conf \
     vendor/asus/grouper/proprietary/lib/hw/camera.tegra3.so:system/lib/hw/camera.tegra3.so \
     vendor/asus/grouper/proprietary/lib/hw/keystore.grouper.so:system/lib/hw/keystore.grouper.so \
     vendor/asus/grouper/proprietary/lib/hw/sensors.grouper.so:system/lib/hw/sensors.grouper.so \
