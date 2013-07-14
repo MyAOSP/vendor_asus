@@ -83,7 +83,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf300t/proprietary/lib/libasound.so:system/lib/libasound.so \
     vendor/asus/tf300t/proprietary/lib/libaudioavp.so:system/lib/libaudioavp.so \
     vendor/asus/tf300t/proprietary/lib/libbluetooth_jni.so:system/lib/libbluetooth_jni.so \
-    vendor/asus/tf300t/proprietary/\:system/\ \
     vendor/asus/tf300t/proprietary/lib/libbt-hci.so:system/lib/libbt-hci.so \
     vendor/asus/tf300t/proprietary/lib/libbt-utils.so:system/lib/libbt-utils.so \
     vendor/asus/tf300t/proprietary/lib/libcgdrv.so:system/lib/libcgdrv.so \
@@ -187,8 +186,8 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf300t/proprietary/usr/share/alsa/pcm/surround41.conf:system/usr/share/alsa/pcm/surround41.conf \
     vendor/asus/tf300t/proprietary/usr/share/alsa/pcm/surround50.conf:system/usr/share/alsa/pcm/surround50.conf \
     vendor/asus/tf300t/proprietary/usr/share/alsa/pcm/surround51.conf:system/usr/share/alsa/pcm/surround51.conf \
-    vendor/asus/tf300t/proprietary/usr/share/alsa/pcm/surround71.conf:system/usr/share/alsa/pcm/surround71.conf
-    vendor/asus/tf300t/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so
+    vendor/asus/tf300t/proprietary/usr/share/alsa/pcm/surround71.conf:system/usr/share/alsa/pcm/surround71.conf \
+    vendor/asus/tf300t/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/asus/tf300t/proprietary/lib/mpu3050/libmllite.so:system/lib/libmllite.so \
     vendor/asus/tf300t/proprietary/lib/mpu3050/libmlplatform.so:system/lib/libmlplatform.so \
     vendor/asus/tf300t/proprietary/lib/mpu3050/libmplmpu.so:system/lib/libmplmpu.so \
